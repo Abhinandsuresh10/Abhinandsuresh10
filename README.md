@@ -17,5 +17,5 @@
 ![Abhinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandsuresh10&show_icons=true&theme=radical)
 
 ### 🏆 Top Repositories
-- [Project 1](https://github.com/Abhinandsuresh10/project1)
+- [Project 1](https://github.com/Abhinandsuresh10/FirstProject)
 
