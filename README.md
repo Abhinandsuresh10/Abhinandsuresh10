@@ -23,6 +23,10 @@
 [![SQL](https://img.shields.io/badge/SQL-00618A?style=flat-square&logo=sqlite&logoColor=white)](https://www.sql.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DSA](https://img.shields.io/badge/DSA-0066CC?style=flat-square&logo=python&logoColor=white)](https://www.geeksforgeeks.org/data-structures/)
+[![EJS](https://img.shields.io/badge/EJS-61AEE7?style=flat-square&logo=ejs&logoColor=white)](https://ejs.co/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 
 ### 📈 GitHub Stats
 ![Abhinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandsuresh10&show_icons=true&theme=radical)
