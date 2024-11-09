@@ -8,10 +8,6 @@
 - ⚡ Fun fact:  I'm a huge fan of sci-fi movies and can quote almost every line from "Interstellar."
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript
-- **Backend:** Node.js
-- **Database:** MongoDB, SQL
-- **Tools:** Git, GitHub, VS Code
 
 - [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -27,6 +23,8 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 ### 📈 GitHub Stats
 ![Abhinand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinandsuresh10&show_icons=true&theme=radical)
