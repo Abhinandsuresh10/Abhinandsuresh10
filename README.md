@@ -8,9 +8,9 @@
 - ⚡ Fun fact:  I'm a huge fan of sci-fi movies and can quote almost every line from "Interstellar."
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js
-- **Database:** MongoDB, MySQL
+- **Database:** MongoDB, SQL
 - **Tools:** Git, GitHub, VS Code
 
 ### 📈 GitHub Stats
